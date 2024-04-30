@@ -1,0 +1,8 @@
+{
+  "blast-testnet": {
+    "RUSDStakeManager": {
+      "address": "0x002c755D3da3dA4c692EEd16222e9805dF92b5C9",
+      "startBlock": 3942069
+    }
+  }
+}
